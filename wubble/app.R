@@ -29,7 +29,7 @@ cards <- tribble(
      'Skylar Diggins-Smith', 'https://media.giphy.com/media/CYTc6xLOqMvP2g7v5D/giphy.gif', 
      'Sue Bird', 'https://64.media.tumblr.com/a63f1388cb68ee36a9db81d4f3be9cd2/199b642b244ed838-ec/s400x600/c70700f5cfb7e926f6650407528a825e8c4d8e0b.gifv',
      'Allie Quigley', 'https://sportshub.cbsistatic.com/i/r/2020/07/26/5675513a-de1c-491c-82d5-e12630c354f8/thumbnail/1200x675/9c5cb61b120e0e019ecf2523f977a20b/allie-quigley.jpg',
-     'Courtney Williams','https://stmedia.stimg.co/Atlanta+Dream+v+Minnesota+Lynx_m3463933.jpg?fit=crop&crop=faces',
+     'Courtney Williams','https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F70451d9b-b0f3-46ba-bed8-86b0fc734793_540x360.jpeg',
      
      'Breanna Stewart', 'https://media.giphy.com/media/nvsfoblMcc0EIOod0f/giphy.gif',
      'Jordin Canada', 'https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fhighposthoops.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2020%2F08%2F1263981909-850x560.jpeg',
