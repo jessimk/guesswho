@@ -9,7 +9,7 @@ cards <- tribble(
     ~rn,  ~card, ~card_link,
     1, 'Carol', 'https://media1.tenor.com/images/2f1f43f094695c9d6955ca512500a49a/tenor.gif',
     2, 'Furiosa', 'https://media.giphy.com/media/zmJaqO8evZORq/giphy.gif',
-    3, 'Celine Sciamma', 'https://france-amerique.com/wp-content/uploads/2020/02/celine-Sciama05-scaled-e1581545250719.jpg',
+    3, 'Celine Sciamma', 'https://i.guim.co.uk/img/media/71f005f8c3d982f73133905ad89c9f205dba9562/3_260_1690_1013/master/1690.jpg?width=1020&quality=85&auto=format&fit=max&s=395e23f653d4748df2b73cb64579b9a1',
     4, 'Roxane Gay', 'https://www.c21uwm.com/tennessenscholars/wp-content/uploads/2018/11/Roxanne-Gay.jpeg',
     
     5, 'Bette Porter', 'https://media.giphy.com/media/MYD7995yDwoSPfZ49O/giphy.gif',
