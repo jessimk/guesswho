@@ -7,7 +7,3 @@ A virtual 'Guess Who?' game for the socially distant 2020 winter holiday season.
 [R Shiny app code can be found here](https://github.com/jessimk/guesswho/blob/main/wubble/app.R).
 
 ![guesswhowubblescreenshot](https://github.com/jessimk/guesswho/blob/main/assets/guesswho_wubble_demo.gif)
-
----
-
-The custom QueeryWho? version for M can be found [here]( https://jes-simkin.shinyapps.io/queerywho/).
