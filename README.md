@@ -1,5 +1,13 @@
 # guesswho
 
-A virtual 'guess who' game for the socially distant 2020 winter holiday season. Built with R Shiny.  
+A virtual 'Guess Who?' game for the socially distant 2020 winter holiday season. Built with R Shiny.  
 
-[Virtual 'guess who?' - 2020 WNBA Wubble Edition](https://jes-simkin.shinyapps.io/wubble/)
+[Try the 2020 WNBA Wubble Edition here](https://jes-simkin.shinyapps.io/wubble/) 🏀
+
+[R Shiny app code can be found here](https://github.com/jessimk/guesswho/blob/main/wubble/app.R).
+
+![guesswhowubblescreenshot](https://github.com/jessimk/guesswho/blob/main/assets/guesswho_wubble_demo.gif)
+
+---
+
+The custom QueeryWho? version for M can be found [here]( https://jes-simkin.shinyapps.io/queerywho/).
